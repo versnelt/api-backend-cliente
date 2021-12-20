@@ -1,0 +1,1 @@
+web: maven clean install
