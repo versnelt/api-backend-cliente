@@ -43,3 +43,4 @@ A api do cliente recebe, via RabbitMQ, os dados dos produtos e lojas cadastrados
 
 
 # apiCliente
+# apiCliente
